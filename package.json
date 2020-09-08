@@ -1,0 +1,24 @@
+{
+  "name": "input-method-tip",
+  "version": "1.0.0",
+  "description": "Mac提示工具",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "",
+  "keywords": [
+    "input",
+    "tip",
+    "method",
+    "mac",
+    "输入法",
+    "提示",
+    "electron"
+  ],
+  "author": "BTB",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^10.1.1"
+  }
+}
