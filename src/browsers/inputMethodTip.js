@@ -1,5 +1,4 @@
 const { BrowserWindow } = require('electron');
-const path = require('path');
 
 module.exports = ({ dirname }) => {
     let win;
