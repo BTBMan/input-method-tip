@@ -10,7 +10,6 @@ module.exports = ({ dirname }) => {
             height: 600,
             webPreferences: {
                 nodeIntegration: true,
-                preload: path.join(dirname, 'preload', 'index.js'),
             },
         };
 
