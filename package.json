@@ -2,11 +2,11 @@
   "name": "input-method-tip",
   "version": "1.0.0",
   "description": "Mac提示工具",
-  "main": "main.js",
+  "main": "src/main.js",
   "scripts": {
-    "start": "electron ."
+    "serve": "electron ."
   },
-  "repository": "",
+  "repository": "https://github.com/xiaolongGitHub1498/InputMethod-Tip",
   "keywords": [
     "input",
     "tip",
@@ -19,6 +19,7 @@
   "author": "BTB",
   "license": "MIT",
   "devDependencies": {
-    "electron": "^10.1.1"
+    "electron": "^10.1.1",
+    "electron-reload": "^1.5.0"
   }
 }
